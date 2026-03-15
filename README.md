@@ -1,4 +1,4 @@
-<h1><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python-icon/python-icon.png" height="30" width="30"></sub> PySpark RDD Movie Data Analytics </h1>
+<h1><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python-icon/python-icon.png" height="30" width="30"></sub> PySpark Movie Data Analytics </h1>
 
 <img src="https://github.com/RadhikaDeshpande1010/PySpark-Movie-Data-Analytics/blob/main/PySpark%20RDD%20Movie%20Data%20Analytics.png">
 
