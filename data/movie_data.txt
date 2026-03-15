@@ -1,0 +1,21 @@
+movie_id|movie_name|genre|release_year|duration_minutes|rating|country
+1|Inception|SciFi|2010|148|8.8|USA 
+2|Titanic|Romance|1997|195|7.8|USA
+3|Avengers Endgame|Action|2019|181|8.4|USA
+4|Parasite|Thriller|2019|132|8.6|South Korea
+5|Interstellar|SciFi|2014|169|8.6|USA 
+6|Joker|Drama|2019|122|8.4|USA
+7|Dangal|Sports|2016|161|8.4|India 
+8|Frozen|Animation|2013|102|7.4|USA
+9|The Godfather|Crime|1972|175|9.2|USA
+10|Bahubali|Action|2015|159|8.0|India 
+11|ToyStory|Animation|1995|81|8.3|USA 
+12|3 Idiots|Comedy|2009|170|8.4|India
+13|The Dark Knight|Action|2008|152|9.0|USA
+14|Gladiator|Action|2000|155|8.5|USA 
+15|Coco|Animation|2017|105|8.4|USA
+16|RRR|Action|2022|187|8.0|India 
+17|The Conjuring|Horror|2013|112|7.5|USA 
+18|PK|Comedy|2014|153|8.1|India
+19|Up|Animation|2009|96|8.3|USA 
+20|Shershaah|War|2021|135|8.4|India
